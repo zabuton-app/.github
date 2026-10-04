@@ -16,8 +16,8 @@ Local-first, no cloud, no accounts — free and open source.
 
 | | App | Description |
 | --- | --- | --- |
-| 巡 | [meguri](https://github.com/zabuton-app/meguri) | 🎬 A local-first media library for your videos & photos — scan, browse, search, and play. No cloud, no account. |
-| 刻 | [kizami](https://github.com/zabuton-app/kizami) | ⏱️ A tray-resident pomodoro timer with a candy-pop look — focus, breaks, and desktop notifications, always one click away. |
+| <img src="https://zabuton-app.github.io/assets/meguri.png" width="48" alt="Meguri app icon — the kanji 巡"> | [meguri](https://github.com/zabuton-app/meguri) | 🎬 A local-first media library for your videos & photos — scan, browse, search, and play. No cloud, no account. |
+| <img src="https://zabuton-app.github.io/assets/kizami.png" width="48" alt="Kizami app icon — the kanji 刻"> | [kizami](https://github.com/zabuton-app/kizami) | ⏱️ A tray-resident pomodoro timer with a candy-pop look — focus, breaks, and desktop notifications, always one click away. |
 
 Every zabuton app is named after a Japanese verb and displayed as a single
 kanji. More apps are on the way — they will appear here as they are released.
@@ -51,3 +51,16 @@ of praise or welcome, a seat is prepared for you.
 The zabuton apps try to carry that spirit: small, tangible tools that welcome
 you, sit quietly on your desktop, and make everyday moments a bit more
 pleasant.
+
+## Mascot
+
+<div align="center">
+
+![The pixel-art zabuton mascot idling](https://raw.githubusercontent.com/zabuton-app/mascot/main/pixel/gif/idle.gif#gh-light-mode-only)![The pixel-art zabuton mascot idling](https://raw.githubusercontent.com/zabuton-app/mascot/main/pixel/gif/idle-on-dark.gif#gh-dark-mode-only)
+
+</div>
+
+Meet the zabuton mascot: a navy floor cushion whose four corner tassels serve
+as arms and legs, here to keep the zabuton apps company. The artwork — vector
+illustrations and pixel-art animations — lives in the
+[mascot](https://github.com/zabuton-app/mascot) repository.
